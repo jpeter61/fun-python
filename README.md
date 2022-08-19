@@ -1,2 +1,5 @@
 # fun-python
-Python learing and practice
+A collection of Python projects
+
+## Projects
+- base-structure: Example module setup; made to copy and paste to other projects
