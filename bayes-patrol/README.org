@@ -1,0 +1,6 @@
+#+title:Readme
+
+* Bayes Patrol
+An implementation of the "Search and Rescue" project from "Real World Python" by Lee Vaughan.
+https://nostarch.com/real-world-python
+https://github.com/rlvaugh/Real_World_Python

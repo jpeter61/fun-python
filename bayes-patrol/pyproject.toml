@@ -1,0 +1,18 @@
+[tool.poetry]
+name = "bayes-patrol"
+version = "0.1.0"
+description = ""
+authors = ["Jamie Peterson <jpeter61@users.noreply.github.com>"]
+readme = "README.org"
+packages = [{include = "bayes_patrol"}]
+
+[tool.poetry.dependencies]
+python = "^3.9"
+opencv-contrib-python = "^4.6.0.66"
+
+[tool.poetry.scripts]
+bayes = "bayes_patrol:main"
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"

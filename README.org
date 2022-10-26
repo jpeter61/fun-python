@@ -1,0 +1,8 @@
+* fun-python
+A collection of Python projects
+
+** Projects
+- bayes-patrol - Using Bayes' Rule to find missing sailors
+** How to Run
+I use Poetry.
+https://python-poetry.org/docs/basic-usage/
